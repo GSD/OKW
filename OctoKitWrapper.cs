@@ -38,7 +38,7 @@ namespace OKW
                 Console.WriteLine("We have not cleanlyLogged In, but we are trying to do stuff!");
                 Console.WriteLine(System.Environment.StackTrace);
             }
-        }c
+        }
 
         public OctoKitWrapper(bool gitHubStuff)
         {
