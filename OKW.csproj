@@ -4,7 +4,6 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
-
   <ItemGroup>
     <PackageReference Include="Octokit" Version="0.40.0" />
     <PackageReference Include="System.Threading.Tasks.Extensions" Version="4.5.3" />
