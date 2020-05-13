@@ -78,7 +78,7 @@ namespace OKW
             try{
                 Console.WriteLine("Loading github...");
                 string secretkey = Environment.GetEnvironmentVariable("GITHUB_TOKEN");
-                github = new GitHubClient(new ProductHeaderValue("Pauliver-ImageTool"))
+                github = new GitHubClient(new ProductHeaderValue("Perfect-Is-Enamy-Of-Good-Enough"))
                 {
                     Credentials = new Credentials(secretkey)
                 };
