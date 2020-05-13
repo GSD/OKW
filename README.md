@@ -20,3 +20,6 @@ https://github.com/pauliver/GitHub-Issue-Timeline
 
 https://github.com/pauliver/RepoSaver
  
+## Command to push the package
+
+> dotnet nuget push "bin/Debug/GSD.OKW.0.0.0.nupkg" --source "github"

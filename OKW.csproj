@@ -13,7 +13,7 @@
        A wrapper around Octokit. It's just OK. Not great.
     </Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <RepositoryUrl>https://github.com/GSD/OKW</RepositoryUrl>
+    <RepositoryUrl>https://github.com/GSD/OKW/</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
