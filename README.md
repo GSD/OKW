@@ -12,13 +12,10 @@ Just an OK Wrapper around OctoKit ( _in C#_) to simplify usage, with several sam
 
 The Examples will live in other projects:
 
-https://github.com/pauliver/CSharp-Image-Action
-
-https://github.com/pauliver/Merge-Pull-Request-Csharp
-
-https://github.com/pauliver/GitHub-Issue-Timeline
-
-https://github.com/pauliver/RepoSaver
+- https://github.com/pauliver/CSharp-Image-Action
+- https://github.com/pauliver/Merge-Pull-Request-Csharp
+- https://github.com/pauliver/GitHub-Issue-Timelines
+- https://github.com/pauliver/RepoSaver
  
 ## Command to push the package
 
